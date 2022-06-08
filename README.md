@@ -2,6 +2,12 @@
 
 # Cap Utilities
 
+A utility mod for fabric (soon quilt) with different tweaks, configurations both singleplayer tweaks and global utilities.
+
+## Project progess
+
+All project progress should be logged in the projects tab.
+
 ## Setup
 
 For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
