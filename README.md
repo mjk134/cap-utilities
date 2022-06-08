@@ -1,4 +1,4 @@
-<img src="cap-utilites-logo.png">
+![cap-utilities-logo](https://user-images.githubusercontent.com/57556877/172702018-d38c2dc6-0dca-4b33-ac9e-4a331e00c3a4.png)
 
 # Cap Utilities
 
