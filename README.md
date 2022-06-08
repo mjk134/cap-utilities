@@ -1,3 +1,5 @@
+<img src="cap-utilites-logo.png">
+
 # Cap Utilities
 
 ## Setup
