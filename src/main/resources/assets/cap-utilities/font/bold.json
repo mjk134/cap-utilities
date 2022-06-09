@@ -1,0 +1,12 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "cap-utilities:bold.ttf",
+      "shift": [0, 0],
+      "size": 32.0,
+      "oversample": 6.0,
+      "skip": ""
+    }
+  ]
+}
